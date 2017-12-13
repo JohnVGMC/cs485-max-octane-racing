@@ -29,3 +29,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
+# User defined ... Source files for 2D assets
+/Assets/Sprites/GeneralRacing/SRC/
+/Assets/Sprites/TitleScreen/SRC/
